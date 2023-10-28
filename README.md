@@ -4,8 +4,6 @@ Custom object detection Using Detection Transformer (DETR) .
 
 Requirements:
 
-To understand the code, check this video: https://youtu.be/xuh37qziXnw
-
 !python -m pip install --upgrade pip
 
 !pip install supervision==0.3.0
@@ -27,6 +25,5 @@ Base Paper: https://www.nature.com/articles/s41597-023-02432-4?fbclid=IwAR2fWzfh
 
 Reference: https://huggingface.co/docs/transformers/model_doc/detr
 
-Original DETR paper: https://arxiv.org/abs/2005.12872
 
 Original DETR repo: https://github.com/facebookresearch/detr
